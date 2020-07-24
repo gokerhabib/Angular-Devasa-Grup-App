@@ -1,0 +1,1387 @@
+{
+    "header": {
+        "tr": [{
+                "name": "ANASAYFA",
+                "rootName": "/",
+                "pageTitle": "Devasa Çözümler Üretir..."
+            },
+            {
+                "name": "KURUMSAL",
+                "rootName": "/Kurumsal",
+                "pageTitle": "Kurumsal"
+            },
+            {
+                "name": "ŞİRKETLERİMİZ",
+                "rootName": "/Sirketlerimiz",
+                "pageTitle": "Şirketlerimiz"
+            },
+            {
+                "name": "İLETİŞİM",
+                "rootName": "/iletisim",
+                "pageTitle": "İletişim"
+            }
+        ],
+        "en": [{
+                "name": "Home",
+                "rootName": "/",
+                "pageTitle": "Generates Huge Solutions..."
+            },
+            {
+                "name": "CORPORATE",
+                "rootName": "en/Corporate",
+                "pageTitle": "Corporate"
+            },
+            {
+                "name": "COMPANİES",
+                "rootName": "en/Companies",
+                "pageTitle": "Companies"
+            },
+            {
+                "name": "CONTACT",
+                "rootName": "en/Contact",
+                "pageTitle": "Contact"
+            }
+        ],
+        "ar": [{
+                "name": "الصفحة-الرئيسية",
+                "rootName": "/",
+                "pageTitle": "يولد حلول ضخمة"
+            },
+            {
+                "name": "المؤسسية",
+                "rootName": "ar/المؤسسية",
+                "pageTitle": "المؤسسية"
+            },
+            {
+                "name": "شركتنا",
+                "rootName": "ar/شركتنا",
+                "pageTitle": "شركتنا"
+            },
+            {
+                "name": "التماس",
+                "rootName": "ar/التماس",
+                "pageTitle": "التماس"
+            }
+        ],
+        "ms": [{
+                "name": "RUMAH",
+                "rootName": "/",
+                "pageTitle": "Menjana Penyelesaian Besar..."
+            },
+            {
+                "name": "KORPORAT",
+                "rootName": "ms/Korporat",
+                "pageTitle": "Korporat"
+            },
+            {
+                "name": "SYARİKAT KAMİ",
+                "rootName": "ms/Syarikat-Kami",
+                "pageTitle": "Syarikat Kami"
+            },
+            {
+                "name": "KOMUNIKASI",
+                "rootName": "ms/Komunikasi",
+                "pageTitle": "Komunikasi"
+            }
+        ]
+    },
+    "slider": {
+        "tr": [{
+                "id": 1,
+                "title": "Pratik Çözümler...",
+                "src": "./assets/img/s1.jpg",
+                "text": "Her Zaman, Daha ileriye",
+                "titleStyle": "color:white;font-weight:400;font-size:38px;max-width:330px;text-shadow: 5px 5px 5px #000",
+                "textStyle": "color:white;text-shadow: 5px 5px 5px #000",
+                "titleAnimate": "rotateInUpLeft",
+                "textAnimate": "rotateInUpRight",
+                "bodyStyle": "top:20%;left:73%"
+            },{
+                "id": 2,
+                "title": "Akıllı Çözümler...",
+                "src": "./assets/img/s2.jpg",
+                "text": "Gören Gözünüz ve Kulagınız",
+                "titleStyle": "",
+                "textStyle": "",
+                "titleAnimate": "slideInRight",
+                "textAnimate": "slideInLeft",
+                "bodyStyle": "top:83%;left:28%"
+            },
+            {
+                "id": 3,
+                "title": "Alternatif Çözümler...",
+                "src": "./assets/img/s3.jpg",
+                "text": "Kendinize Zaman Ayırın",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "slideInLeft",
+                "textAnimate": "slideInRight",
+                "bodyStyle": "top:18%;left:60%"
+            },
+            {
+                "id": 4,
+                "title": "Akıllı Çözümler...",
+                "src": "./assets/img/s4.jpg",
+                "text": "Gelecegi inşa Etmek için; Evrensel Düşünüyoruz",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "flipInY",
+                "textAnimate": "fadeIn",
+                "bodyStyle": "top:60%;left:30%"
+            },
+            {
+                "id": 5,
+                "title": "Sanatsal Çözümler...",
+                "src": "./assets/img/s5.jpg",
+                "text": "Yenilik Ve Sen",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "fadeInRightBig",
+                "textAnimate": "fadeInRightBig",
+                "bodyStyle": "top:80%;left:20%"
+            },
+            {
+                "id": 6,
+                "title": "Fonksiyonel Çözümler...",
+                "src": "./assets/img/s6.jpg",
+                "text": "Tarzını Yansıt",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "slideInDown",
+                "textAnimate": "slideInUp",
+                "bodyStyle": "top:80%;left:10%"
+            },
+            {
+                "id": 7,
+                "title": "Kurumsal Çözümler...",
+                "src": "./assets/img/s7.jpg",
+                "text": "Marka, Firmanızın imajıdır",
+                "titleStyle": "color:#000",
+                "textStyle": "color:#000;font-weight:bold",
+                "titleAnimate": "fadeInRightBig",
+                "textAnimate": "fadeInRightBig",
+                "bodyStyle": "top:70%;left:32%"
+            }
+        ],
+        "en": [{
+                "id": 1,
+                "title": "Practical Solution...",
+                "src": "./assets/img/s1.jpg",
+                "text": "Always, Level Up",
+                "titleStyle": "color:white;font-weight:400;font-size:38px;max-width:358px;text-shadow: 5px 5px 5px #000",
+                "textStyle": "color:white;text-shadow: 5px 5px 5px #000",
+                "titleAnimate": "rotateInUpLeft",
+                "textAnimate": "rotateInUpRight",
+                "bodyStyle": "top:20%;left:73%"
+            },
+            {
+                "id": 2,
+                "title": "Intelligent Solution",
+                "src": "./assets/img/s2.jpg",
+                "text": "Your, Eyes and Ears",
+                "titleStyle": "",
+                "textStyle": "",
+                "titleAnimate": "slideInRight",
+                "textAnimate": "slideInLeft",
+                "bodyStyle": "top:83%;left:28%"
+            },
+            {
+                "id": 3,
+                "title": "Alternative Solution...",
+                "src": "./assets/img/s3.jpg",
+                "text": "Take Time For Yourself",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "slideInLeft",
+                "textAnimate": "slideInRight",
+                "bodyStyle": "top:18%;left:60%"
+            },
+            {
+                "id": 4,
+                "title": "Smart Solution...",
+                "src": "./assets/img/s4.jpg",
+                "text": "To Build The Future, Universal Thinking",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "flipInY",
+                "textAnimate": "fadeIn",
+                "bodyStyle": "top:60%;left:30%"
+            },
+            {
+                "id": 5,
+                "title": "Artistic Solution...",
+                "src": "./assets/img/s5.jpg",
+                "text": "Innovation And You",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "fadeInRightBig",
+                "textAnimate": "fadeInRightBig",
+                "bodyStyle": "top:80%;left:20%"
+            },
+            {
+                "id": 6,
+                "title": "Functional Solution...",
+                "src": "./assets/img/s6.jpg",
+                "text": "Reflect Your Style",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "slideInDown",
+                "textAnimate": "slideInUp",
+                "bodyStyle": "top:80%;left:10%"
+            },
+            {
+                "id": 7,
+                "title": "Enterprise Solution...",
+                "src": "./assets/img/s7.jpg",
+                "text": "Brand, Image of Your Product/Service",
+                "titleStyle": "color:black;max-width:332px",
+                "textStyle": "color:#000;font-weight:bold",
+                "titleAnimate": "fadeInRightBig",
+                "textAnimate": "fadeInRightBig",
+                "bodyStyle": "top:70%;left:32%"
+            }
+        ],
+        "ar": [{
+                "id": 1,
+                "title": "حل عملي...",
+                "src": "./assets/img/s1.jpg",
+                "text": "دائما؛ المستوى الأعلى",
+                "titleStyle": "color:white;font-weight:400;font-size:38px;text-shadow: 5px 5px 5px #000",
+                "textStyle": "color:white;text-shadow: 5px 5px 5px #000",
+                "titleAnimate": "rotateInUpLeft",
+                "textAnimate": "rotateInUpRight",
+                "bodyStyle": "top:20%;left:73%"
+            },
+            {
+                "id": 2,
+                "title": "حل ذكي",
+                "src": "./assets/img/s2.jpg",
+                "text": "الخاص بك؛ عيون وآذان",
+                "titleStyle": "",
+                "textStyle": "",
+                "titleAnimate": "slideInRight",
+                "textAnimate": "slideInLeft",
+                "bodyStyle": "top:83%;left:28%"
+            },
+            {
+                "id": 3,
+                "title": "حل بديل",
+                "src": "./assets/img/s3.jpg",
+                "text": "خذ وقتك لنفسك",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "fadeInRightBig",
+                "textAnimate": "fadeInRightBig",
+                "bodyStyle": "top:18%;left:60%"
+            },
+            {
+                "id": 4,
+                "title": "حل ذكي",
+                "src": "./assets/img/s4.jpg",
+                "text": "لبناء المستقبل التفكير الشامل",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "flipInY",
+                "textAnimate": "fadeIn",
+                "bodyStyle": "top:60%;left:30%"
+            },
+            {
+                "id": 5,
+                "title": "الحل الفني",
+                "src": "./assets/img/s5.jpg",
+                "text": "الابتكار وأنت",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "fadeInRightBig",
+                "textAnimate": "fadeInRightBig",
+                "bodyStyle": "top:80%;left:20%"
+            },
+            {
+                "id": 6,
+                "title": "الحل الوظيفي",
+                "src": "./assets/img/s6.jpg",
+                "text": "تعكس طريقتك",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "slideInDown",
+                "textAnimate": "slideInUp",
+                "bodyStyle": "top:80%;left:10%"
+            },
+            {
+                "id": 7,
+                "title": "حل المؤسسة",
+                "src": "./assets/img/s7.jpg",
+                "text": "العلامة التجارية،\nصورة المنتج / الخدمة",
+                "titleStyle": "color:black",
+                "textStyle": "color:#000;font-weight:bold",
+                "titleAnimate": "fadeInRightBig",
+                "textAnimate": "fadeInRightBig",
+                "bodyStyle": "top:70%;left:32%"
+            }
+        ],
+        "ms": [{
+                "id": 1,
+                "title": "Penyelesaian Praktikal ...",
+                "src": "./assets/img/s1.jpg",
+                "text": "Sentiasa, Tahap Up",
+                "titleStyle": "color:white;font-weight:400;font-size:38px;max-width:460px;text-shadow: 5px 5px 5px #000",
+                "textStyle": "color:white;text-shadow: 5px 5px 5px #000",
+                "titleAnimate": "rotateInUpLeft",
+                "textAnimate": "rotateInUpRight",
+                "bodyStyle": "top:20%;left:73%"
+            },
+            {
+                "id": 2,
+                "title": "Penyelesaian Pintar...",
+                "src": "./assets/img/s2.jpg",
+                "text": "Anda, Mata dan Telinga",
+                "titleStyle": "",
+                "textStyle": "",
+                "titleAnimate": "slideInRight",
+                "textAnimate": "slideInLeft",
+                "bodyStyle": "top:83%;left:28%"
+            },
+            {
+                "id": 3,
+                "title": "Penyelesaian Alternatif...",
+                "src": "./assets/img/s3.jpg",
+                "text": "Ambil masa untuk diri sendiri",
+                "titleStyle": "max-width: 360px",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "fadeInRightBig",
+                "textAnimate": "fadeInRightBig",
+                "bodyStyle": "top:18%;left:60%"
+            },
+            {
+                "id": 4,
+                "title": "Penyelesaian Pintar...",
+                "src": "./assets/img/s4.jpg",
+                "text": "Untuk Membangun Masa Depan; Pemikiran Universal",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "flipInY",
+                "textAnimate": "fadeIn",
+                "bodyStyle": "top:60%;left:30%"
+            },
+            {
+                "id": 5,
+                "title": "Penyelesaian Artistik...",
+                "src": "./assets/img/s5.jpg",
+                "text": "Inovasi Dan Anda",
+                "titleStyle": "",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "fadeInRightBig",
+                "textAnimate": "fadeInRightBig",
+                "bodyStyle": "top:80%;left:20%"
+            },
+            {
+                "id": 6,
+                "title": "Penyelesaian Fungsian...",
+                "src": "./assets/img/s6.jpg",
+                "text": "Renungkan Gaya Anda",
+                "titleStyle": "max-width:360px",
+                "textStyle": "color:#fff;font-weight:bold",
+                "titleAnimate": "slideInDown",
+                "textAnimate": "slideInUp",
+                "bodyStyle": "top:80%;left:10%"
+            },
+            {
+                "id": 7,
+                "title": "Penyelesaian Perusahaan...",
+                "src": "./assets/img/s7.jpg",
+                "text": "Jenama, Imej Produk/Perkhidmatan Anda",
+                "titleStyle": "color:black;max-width:452px",
+                "textStyle": "color:#000;font-weight:bold",
+                "titleAnimate": "fadeInRightBig",
+                "textAnimate": "fadeInRightBig",
+                "bodyStyle": "top:70%;left:32%"
+            }
+        ]
+    },
+    "corporate": {
+        "tr": "<p><h5 class='title'><strong>VİZYONUMUZ</strong></h5></p><p>Global dünyada; profesyonel ekibimiz ile hazırlayacağımız tüm hizmetlerimizde, dijital teknolojinin görsel dünyaya kazandırdığı olanakları kullanarak, Türkiye’de ve dünya’da fark edilebilecek hale getirmek.</p><p><h5 class='title'><strong>MİSYONUMUZ</strong></h5></p><p>Rekabetçi bir dünyada pazar sahibi olmak isteyen firmalara; geniş bir yelpazede sunduğumuz hizmetlerimiz içerisinde alternatifsiz hale gelmeleriicin gereken gayreti sarfetmek.</p><p><h5 class='title'><strong>KURUMSAL</strong></h5></p><p><strong>Devasa Grup</strong>, hizmet verdiği sektörler ile birlikte büyüyen, kendi başarısını onlara kattığı pozitif etkiler ileölçen bir media tanıtım firmasıdır. Firmanızın ihtiyacına, bütçesine ve içinde bulunduğu sektörün yapısına uygun fikirler geliştirerek ve bu fikirler doğrultusunda çözümler üreterek uluslararası standartlara göre bunları uygulamak Devasa Grup uzmanlık alanıdır.</p><p><strong>Devasa Grup</strong>, Türkiye’nin dört bir yanında, yüzlerce firmaya sunduğu fikirler ve estetik tasarımlar ile her zaman iyi bir çözüm ortağı ve güvenilir bir rehber olmayı amaçlamıştır.İşleriniz için çözümler üreten profesyonel ekibimiz ve çözüm ortaklarımız sayesinde doğru zamanda ve doğru yerde konumunuzu almış olacaksınız.</p>",
+        "en": "<p></p><h5 class='title'><strong>OUR VİSİON</strong></h5><p></p><p>In the global world; to make it noticeable both in Turkey and in the world by using the opportunities gained by digital technology to the Visual world in all the services we will prepare with our professional team.</p><p></p><h5 class='title'><strong>OUR MİSSİON</strong></h5><p></p><p>Companies wanting to have a market in a competitive world; to make efforts to make them available in a wide range of services.</p><p></p><h5 class='title'><strong>CORPORATE</strong></h5><p></p><p><strong>Devasa Grup</strong> is a media promotion company that grows with the sectors it serves and measures its success with the positive effects it adds to them. It is the expertise of Devasa Media to develop ideas according to the needs, budget and structure of the sector in your company and to implement them according to international standards by producing solutions according to these ideas.</p><p> <strong>Devasa Grup</strong>, Turkey's all over, it is always a good solution with hundreds of companies to provide the ideas and aesthetic designs are intended to be a reliable partner and guide.</p>",
+        "ar": "<h5 class='title'><strong>رؤيتنا</strong></h5><p></p><p>في العالم العالمي ؛ مع فريقنا المحترف في جميع خدماتنا ، سوف نستعد الرقمية التكنولوجيا جلبت إلى العالم المرئيباستخدام الاحتمالات في تركيا والعالملا يمكن أن تتحقق القرارات.</p><h5 class='title'><strong>مهمتنا</strong></h5><p>الرغبة في الحصول على سوق في عالم تنافسيشركات. نحن نقدم مجموعة واسعة منتصبح غير بديلة في خدماتنايجب بذل كل جهد ممكن لالحافظة.</p><h5 class='title'><strong>الشركات</strong></h5><p>مجموعة ضخمةالنمو مع القطاعات التي تخدمها ، مع الآثار الإيجابية التي تضيفها إلى نجاحهاهي شركة ترويج وسائل الإعلام. احتياجات شركتك والميزانية وتطوير الأفكار وفقًا لهيكل القطاع والحلول بما يتماشى مع هذه الأفكارتطبيقها وفقا للمعايير الدولية من خلال إنتاجالمجموعة العملاقة هي تخصصها.</p><p>المجموعة نطاق واسع، في جميع أنحاء تركيا، ومئات من الشركاتدائما جيدة مع الأفكار والتصاميم الجماليةأن يكون شريك الحل ودليل موثوقوكان الهدف.يقوم فريقنا المحترف وشركاء الحلول بإنتاج حلول لعملكفي الوقت المناسبوقد اتخذت موقفك في المكان المناسبسوف تكون.</p>",
+        "ms": "<h5 class='title'><strong>KAMİ VİSİ</strong></h5><p></p><p>Di dunia global; Dengan pasukan profesional kami Dalam semua perkhidmatan kami, kami akan menyediakan digital teknologi yang dibawa ke dunia visual menggunakan kemungkinan di Turki dan di dunia boleh dilihat</p><h5 class='title'><strong>MİSİ KAMİ</strong></h5><p></p><p>Ingin memiliki pasaran dalam dunia yang kompetitif syarikat; Kami menawarkan pelbagai jenis menjadi bukan alternatif dalam perkhidmatan kami berikan</p><h5 class='title'><strong>KORPORAT</strong></h5><p></p><p>Kumpulan Massive berkembang dengan sektor yang dikendalikannya, dengan kesan positif ia menambah kejayaan mereka adalah sebuah syarikat promosi media. Keperluan syarikat, belanjawan dan mengembangkan idea-idea sesuai dengan struktur sektor dan penyelesaian selaras dengan idea-idea ini menerapkannya mengikut piawaian antarabangsa dengan menghasilkan Kumpulan Giant adalah keistimewaannya.</p><p>Secara besar-besaran Group, Turki seluruh, beratus-ratus syarikat sentiasa baik dengan idea dan reka bentuk estetik untuk menjadi rakan kongsi penyelesaian dan panduan yang boleh dipercayai Ia bertujuan.Pasukan profesional kami dan rakan kongsi penyelesaian yang menghasilkan penyelesaian untuk perniagaan anda pada masa yang sesuai dan telah mengambil kedudukan anda di tempat yang betul Anda akan menjadi.</p>"
+    },
+    "groupCompaineTitle": {
+        "tr": "Şirketlerimiz",
+        "en": "Companies",
+        "ar": "شركتنا",
+        "ms": "Syarikat Kami"
+    },
+    "compaineDetailRoot": {
+        "tr": "/Sirket-Detay",
+        "en": "/en/Compaine-Detail",
+        "ar": "/ar/Sirket-Detay",
+        "ms": "/ms/Butiran-Syarikat"
+    },
+    "compaines": {
+        "tr": [{
+                "id": 1,
+                "name": "DEVASA MEDYA",
+                "shortText": "Gören Gözünüz ve Kulağınız",
+                "imgUrl": "assets/img/groupcompaine-1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "DEVASA DANIŞMANLIK",
+                "shortText": "Her Zaman; Daha İleriye",
+                "imgUrl": "assets/img/groupcompaine-2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "DEVASA ORGANİZASYON",
+                "shortText": "Kendinize Zaman Ayırın",
+                "imgUrl": "assets/img/groupcompaine-3.jpg"
+            },
+            {
+                "id": 4,
+                "name": "DEVASA İNŞAAT",
+                "shortText": "Geleceği İnşa Etmek için; Evrensel Düşününüyoruz",
+                "imgUrl": "assets/img/groupcompaine-4.jpg"
+            },
+            {
+                "id": 5,
+                "name": "DEVASA TEKSTİL",
+                "shortText": "Yenilik ve Sen",
+                "imgUrl": "assets/img/groupcompaine-5.jpg"
+            },
+            {
+                "id": 6,
+                "name": "DEVASA MOBİLYA",
+                "shortText": "Tarzını Yansıt",
+                "imgUrl": "assets/img/groupcompaine-6.jpg"
+            },
+            {
+                "id": 7,
+                "name": "DEVASA MARKA TESCİL&PATENT",
+                "shortText": "Marka,Patent",
+                "imgUrl": "assets/img/groupcompaine-7.jpg"
+            }
+        ],
+        "en": [{
+                "id": 1,
+                "name": "DEVASA MEDIA",
+                "shortText": "Your; Eyes and Ears...",
+                "imgUrl": "assets/img/groupcompaine-1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "DEVASA CONSULTANCY",
+                "shortText": "Always; Level Up...",
+                "imgUrl": "assets/img/groupcompaine-2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "DEVASA ORGANIZATION",
+                "shortText": "Take Time For Yourself...",
+                "imgUrl": "assets/img/groupcompaine-3.jpg"
+            },
+            {
+                "id": 4,
+                "name": "DEVASA CONSTRUCTION",
+                "shortText": "To Build The Future; Universal Thinking...",
+                "imgUrl": "assets/img/groupcompaine-4.jpg"
+            },
+            {
+                "id": 5,
+                "name": "DEVASA TEXTILE",
+                "shortText": "Innovation And You...",
+                "imgUrl": "assets/img/groupcompaine-5.jpg"
+            },
+            {
+                "id": 6,
+                "name": "DEVASA FURNITURE",
+                "shortText": "Reflect Your Style...",
+                "imgUrl": "assets/img/groupcompaine-6.jpg"
+            },
+            {
+                "id": 7,
+                "name": "DEVASA TRADEMARK REGISTRATION&PATENT",
+                "shortText": "Trademark,Patent",
+                "imgUrl": "assets/img/groupcompaine-7.jpg"
+            }
+        ],
+        "ar": [{
+                "id": 1,
+                "name": "وسائل الإعلام الكبيرة",
+                "shortText": "الخاص بك؛ عيون وآذان...",
+                "imgUrl": "assets/img/groupcompaine-1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "ديفاسا للاستشارات",
+                "shortText": "دائما؛ المستوى الأعلى ...",
+                "imgUrl": "assets/img/groupcompaine-2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "منظمة ديفاسا",
+                "shortText": "خذ وقتك لنفسك ...",
+                "imgUrl": "assets/img/groupcompaine-3.jpg"
+            },
+            {
+                "id": 4,
+                "name": "ديفاسا للإنشاءات",
+                "shortText": "لبناء المستقبل التفكير العالمي ...",
+                "imgUrl": "assets/img/groupcompaine-4.jpg"
+            },
+            {
+                "id": 5,
+                "name": "ديفاسا النسيج",
+                "shortText": "الابتكار وأنت ...",
+                "imgUrl": "assets/img/groupcompaine-5.jpg"
+            },
+            {
+                "id": 6,
+                "name": "مفروشات ديفاسا",
+                "shortText": "تعكس طريقتك ...",
+                "imgUrl": "assets/img/groupcompaine-6.jpg"
+            },
+            {
+                "id": 7,
+                "name": "ديفاسا تسجيل العلامات التجارية وبراءات الاختراع",
+                "shortText": "العلامات التجارية، وبراءات الاختراع",
+                "imgUrl": "assets/img/groupcompaine-7.jpg"
+            }
+        ],
+        "ms": [{
+                "id": 1,
+                "name": "MEDIA DEVASA",
+                "shortText": "Anda; Mata dan telinga ...",
+                "imgUrl": "assets/img/groupcompaine-1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "DEVASA CONSULTANCY",
+                "shortText": "Sentiasa; Tahap Up ...",
+                "imgUrl": "assets/img/groupcompaine-2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "ORGANISASI DEVASA",
+                "shortText": "Ambil masa untuk diri sendiri ...",
+                "imgUrl": "assets/img/groupcompaine-3.jpg"
+            },
+            {
+                "id": 4,
+                "name": "PEMBINAAN DEVASA",
+                "shortText": "Untuk Membangun Masa Depan; Pemikiran Universal ...",
+                "imgUrl": "assets/img/groupcompaine-4.jpg"
+            },
+            {
+                "id": 5,
+                "name": "DEVASA TEKSTIL",
+                "shortText": "Inovasi Dan Anda ...",
+                "imgUrl": "assets/img/groupcompaine-5.jpg"
+            },
+            {
+                "id": 6,
+                "name": "DEVASA FURNITURE",
+                "shortText": "Menggambarkan Gaya Anda ...",
+                "imgUrl": "assets/img/groupcompaine-6.jpg"
+            },
+            {
+                "id": 7,
+                "name": "PATEN PENDAFTARAN PERDAGANGAN DEVASA",
+                "shortText": "Trademark,Patent",
+                "imgUrl": "assets/img/groupcompaine-7.jpg"
+            }
+        ]
+    },
+    "compaineDetail": {
+        "tr": [{
+                "id": 1,
+                "title": "Devasa Medya",
+                "htmlText": "<h5>Grafik Tasarım</h5><h5>Web Tasarım</h5><h5>Yazılım</h5><h5>Prodüksiyon</h5><h5>Matbaa</h5><h5>Promosyon</h5>Detay İçin <a target='_blank' href='https://devasamedia.com'>Devasa Media</a>",
+                "images": [
+                    "assets/img/compaine-detail/media1.jpg",
+                    "assets/img/compaine-detail/media2.jpg",
+                    "assets/img/compaine-detail/media3.jpg"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Devasa Danışmanlık",
+                "htmlText": "<h5>Yatırım Teşvikleri</h5><h5>Yabancı Sermayeli Şirket Kuruluşu</h5><h5>Faaliyet Bilgi Formu Düzenlemesi</h5><h5>İthalat & İhracat</h5><h5>İthalat İzinleri</h5><h5>İhracat Teşvikleri</h5><h5>Çalışma İzni</h5><h5>Güvenlik Bilgi Formu</h5><h5>Yerli Malı Belgesi</h5><h5>Sanayi Sicil Belgesi</h5><h5>Kapasite Raporu</h5><h5>Yıllık İşletme Cetveli</h5>",
+                "images": [
+                    "assets/img/compaine-detail/consultancy1.jpg",
+                    "assets/img/compaine-detail/consultancy2.jpg",
+                    "assets/img/compaine-detail/consultancy3.jpg"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Devasa Organizasyon",
+                "htmlText": "<h5>Kurumsal Organizasyon</h5><h5>Seçim Aday Tanıtımı</h5><h5>Açılış & Temel Atma Töreni</h5><h5>Lansman</h5><h5>Ramazan Ayı Etkinlikleri</h5><h5>Evlilik Teklifi</h5><h5>Ses & Işık Sistemleri</h5><h5>Projeksiyon Sitemleri</h5><h5>Fuar Organizasyonu</h5><h5>Konser Organizasyonu</h5><h5>Seminer - Kongre - Toplantı</h5><h5>Düğün Organizasyonu</h5>",
+                "images": [
+                    "assets/img/compaine-detail/organization1.jpg",
+                    "assets/img/compaine-detail/organization2.jpg",
+                    "assets/img/compaine-detail/organization3.jpg"
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Devasa İnşaat",
+                "htmlText": "<h5>Mimari Tasarım</h5><h5>Havuz Tasarımı</h5><h5>Aqua Park Tasarımı</h5><h5>Peyzaj Tasarım</h5><h5>Özel Tasarım Projeler</h5><h5>Kule Yapımı</h5><h5>Bina Yapımı</h5><h5>Villa Yapımı</h5><h5>İş Merkezi Yapımı</h5><h5>İç Dekorasyon</h5><h5>Dış Dekorasyon</h5><h5>Havuz Yapımı</h5><h5>Mekanik İşlemler</h5>",
+                "images": [
+                    "assets/img/compaine-detail/construction1.jpg",
+                    "assets/img/compaine-detail/construction2.jpg",
+                    "assets/img/compaine-detail/construction3.jpg"
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Devasa Tekstil",
+                "htmlText": "<h5>Erkek Giyim</h5><h5>Bayan Giyim</h5><h5>Unisex Giyim</h5><h5>Otel Tekstili</h5><h5>Ev Tekstili</h5>",
+                "images": [
+                    "assets/img/compaine-detail/textile1.jpg",
+                    "assets/img/compaine-detail/textile2.jpg",
+                    "assets/img/compaine-detail/textile3.jpg"
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Devasa Mobilya",
+                "htmlText": "<h5>Modern Mobilya</h5><h5>Klasik Mobilya</h5><h5>Avangarde Mobilya</h5><h5>Country Mobilya</h5><h5>Chester Mobilya</h5><h5>Retro Mobilya</h5><h5>Bebek Odası</h5><h5>Genç Odası</h5><h5>Çocuk Odası</h5><h5>Ev Mobilyaları</h5><h5>Ofis Mobilyaları</h5><h5>Outdoor Mobilyaları</h5><h5>Banyo Mobilyaları</h5><h5>Antre Mobilyaları</h5><h5>Avize</h5>",
+                "images": [
+                    "assets/img/compaine-detail/furniture1.jpg",
+                    "assets/img/compaine-detail/furniture2.jpg",
+                    "assets/img/compaine-detail/furniture3.jpg"
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Devasa MARKA TESCİL&PATENT",
+                "htmlText": "<h5>ISO-9001</h5><h5>ISO-14001</h5><h5>OHSAS-18001</h5><h5>ISO-22000</h5><h5>FSSC-22000</h5>",
+                "images": [
+                    "assets/img/compaine-detail/trademark1.jpg",
+                    "assets/img/compaine-detail/trademark2.jpg",
+                    "assets/img/compaine-detail/trademark3.jpg"
+                ]
+            }
+        ],
+        "en": [{
+                "id": 1,
+                "title": "DEVASA MEDIA",
+                "htmlText": "<h5>Graphic Design</h5><h5>Web Design</h5><h5>Software</h5><h5>Production</h5><h5>Printing Press</h5><h5>Promotion</h5>For Details <a target='_blank' href='https://devasamedia.com'>Devasa Media</a>",
+                "images": [
+                    "assets/img/compaine-detail/media1.jpg",
+                    "assets/img/compaine-detail/media2.jpg",
+                    "assets/img/compaine-detail/media3.jpg"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "DEVASA CONSULTANCY",
+                "htmlText": "<h5>Investment Incentives</h5><h5>Establishment of Foreign Capital Company</h5><h5>Activity Data Sheet Regulation</h5><h5>Import & Export</h5<h5>Import Permits</h5><h5>Export Incentives</h5><h5>Work Permit</h5><h5>Safety Data Sheet</h5><h5>Domestic Product Certificate</h5><h5>Industry Registration Certificate</h5><h5>Capacity Report</h5><h5>Annual Business Schedule</h5>",
+                "images": [
+                    "assets/img/compaine-detail/consultancy1.jpg",
+                    "assets/img/compaine-detail/consultancy2.jpg",
+                    "assets/img/compaine-detail/consultancy3.jpg"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "DEVASA ORGANIZATION",
+                "htmlText": "<h5>Corporate Organization</h5><h5>Election Candidate Presentation</h5><h5>Opening & Groundbreaking Ceremony</h5><h5>Launching</h5><h5>Ramadan Activities</h5><h5>Marriage Proposal</h5><h5>Sound & Light System</h5><h5>Projection System</h5><h5>Fair Organization</h5><h5>Concert Organization</h5><h5>Seminar - Congress - Meeting</h5><h5>Wedding Organization</h5>",
+                "images": [
+                    "assets/img/compaine-detail/organization1.jpg",
+                    "assets/img/compaine-detail/organization2.jpg",
+                    "assets/img/compaine-detail/organization3.jpg"
+                ]
+            },
+            {
+                "id": 4,
+                "title": "DEVASA CONSTRUCTION",
+                "htmlText": "<h5>Architectural Design</h5><h5>Pool Design</h5><h5>Aqua Park Design</h5><h5>Lanscape Design</h5><h5>Special Design Projects</h5><h5>Tower Construction</h5><h5>Building Construction</h5><h5>Villa Construction</h5><h5>Buesiness Center Construction</h5><h5>Interior Dekorasyon</h5><h5>Exterior Dekorasyon</h5><h5>Pool Construction</h5><h5>Mechanical Operations</h5>",
+                "images": [
+                    "assets/img/compaine-detail/construction1.jpg",
+                    "assets/img/compaine-detail/construction2.jpg",
+                    "assets/img/compaine-detail/construction3.jpg"
+                ]
+            },
+            {
+                "id": 5,
+                "title": "DEVASA TEXTILE",
+                "htmlText": "<h5>Men's Clothing</h5><h5>Women's Clothing</h5><h5>Unisex Clothing</h5><h5>Hotel Textile</h5><h5>Home Textile</h5>",
+                "images": [
+                    "assets/img/compaine-detail/textile1.jpg",
+                    "assets/img/compaine-detail/textile2.jpg",
+                    "assets/img/compaine-detail/textile3.jpg"
+                ]
+            },
+            {
+                "id": 6,
+                "title": "DEVASA FURNITURE",
+                "htmlText": "<h5>Modern Furniture</h5><h5>Classic Furniture</h5><h5>Avangarde Furniture</h5><h5>Country Furniture</h5><h5>Chester Furniture</h5><h5>Retro Furniture</h5><h5>Baby Room</h5><h5>Young Room</h5><h5>Children's Room</h5><h5>Home Furniture</h5><h5>Office Furniture</h5><h5>Avangarde Furniture</h5><h5>Bathroom Furniture</h5><h5>Doorway Furniture</h5><h5>Chandelier</h5>",
+                "images": [
+                    "assets/img/compaine-detail/furniture1.jpg",
+                    "assets/img/compaine-detail/furniture2.jpg",
+                    "assets/img/compaine-detail/furniture3.jpg"
+                ]
+            },
+            {
+                "id": 7,
+                "title": "DEVASA TRADEMARK REGISTRATION&PATENT",
+                "htmlText": "<h5>ISO-9001</h5><h5>ISO-14001</h5><h5>OHSAS-18001</h5><h5>ISO-22000</h5><h5>FSSC-22000</h5>",
+                "images": [
+                    "assets/img/compaine-detail/trademark1.jpg",
+                    "assets/img/compaine-detail/trademark2.jpg",
+                    "assets/img/compaine-detail/trademark3.jpg"
+                ]
+            }
+        ],
+        "ar": [{
+                "id": 1,
+                "title": "وسائل الإعلام الكبيرة",
+                "htmlText": "<h5>تصميم جرافيك</h5><h5>تصميم المواقع</h5><h5>البرمجيات</h5><h5>الإنتاج</h5><h5>طبعة</h5><h5>ترويج</h5>لمزيد من التفاصيل <a target='_blank' href='https://devasamedia.com'>Devasa Media</a>",
+                "images": [
+                    "assets/img/compaine-detail/media1.jpg",
+                    "assets/img/compaine-detail/media2.jpg",
+                    "assets/img/compaine-detail/media3.jpg"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "ديفاسا للاستشارات",
+                "htmlText": "<h5>حوافز الاستثمار</h5><h5>تأسيس شركة رأس المال الأجنبي</h5><h5>نموذج معلومات النشاط</h5><h5>استيراد وتصدير</h5><h5>تصاريح الاستيراد</h5><h5>حوافز التصدير</h5><h5>تصريح عمل</h5><h5>ورقة بيانات السلامة</h5><h5>شهادة البضائع المحلية</h5><h5>شهادة تسجيل الصناعة</h5><h5>تقرير القدرات</h5><h5>جدول الأعمال السنوي</h5>",
+                "images": [
+                    "assets/img/compaine-detail/consultancy1.jpg",
+                    "assets/img/compaine-detail/consultancy2.jpg",
+                    "assets/img/compaine-detail/consultancy3.jpg"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "منظمة ديفاسا",
+                "htmlText": "<h5>منظمة الشركات</h5><h5>عرض مرشح الانتخابات</h5><h5>حفل الافتتاح والرائدة</h5><h5>إطلاق</h5><h5>نشاطات رمضان</h5><h5>عرض زواج</h5><h5>أنظمة الصوت والإضاءة</h5><h5>أنظمة الإسقاط</h5><h5>منظمة عادلة</h5><h5>منظمة الحفل</h5><h5>ندوة - مؤتمر - اجتماع</h5><h5>تنظيم الزفاف</h5>",
+                "images": [
+                    "assets/img/compaine-detail/organization1.jpg",
+                    "assets/img/compaine-detail/organization2.jpg",
+                    "assets/img/compaine-detail/organization3.jpg"
+                ]
+            },
+            {
+                "id": 4,
+                "title": "ديفاسا للإنشاءات",
+                "htmlText": "<h5>التصميم المعماري</h5><h5>تصميم البركة</h5><h5>تصميم أكوا بارك</h5><h5>تصميم المناظر الطبيعية</h5><h5>مشاريع تصميم خاص</h5><h5>برج البناء</h5><h5>بناء البناء</h5><h5>فيلا البناء</h5><h5>بناء مركز الأعمال</h5><h5>الديكور الداخلي</h5><h5>الديكور الخارجي</h5><h5>تجمع البناء</h5><h5>العمليات الميكانيكية</h5>",
+                "images": [
+                    "assets/img/compaine-detail/construction1.jpg",
+                    "assets/img/compaine-detail/construction2.jpg",
+                    "assets/img/compaine-detail/construction3.jpg"
+                ]
+            },
+            {
+                "id": 5,
+                "title": "ديفاسا النسيج",
+                "htmlText": "<h5>ملابس رجالية</h5><h5>ملابس نسائية</h5><h5>ملابس للجنسين</h5><h5>نسيج الفندق</h5><h5>المنسوجات المنزلية</h5>",
+                "images": [
+                    "assets/img/compaine-detail/textile1.jpg",
+                    "assets/img/compaine-detail/textile2.jpg",
+                    "assets/img/compaine-detail/textile3.jpg"
+                ]
+            },
+            {
+                "id": 6,
+                "title": "مفروشات ديفاسا",
+                "htmlText": "<h5>الأثاث الحديث</h5><h5>الأثاث الكلاسيكي</h5><h5>مقدمة الأثاث</h5><h5>الأثاث القطري</h5><h5>تشيستر الأثاث</h5><h5>الأثاث الرجعي</h5><h5>غرفة الطفل</h5><h5>غرفة الشباب</h5><h5>غرفة الأطفال</h5><h5>الأثاث المنزلي</h5><h5>الأثاث المكتبي</h5><h5>مقدمة الأثاث</h5><h5>أثاث المدخل</h5><h5>أثاث المدخل</h5><h5>الثريا</h5>",
+                "images": [
+                    "assets/img/compaine-detail/furniture1.jpg",
+                    "assets/img/compaine-detail/furniture2.jpg",
+                    "assets/img/compaine-detail/furniture3.jpg"
+                ]
+            },
+            {
+                "id": 7,
+                "title": "ديفاسا تسجيل العلامات التجارية وبراءات الاختراع",
+                "htmlText": "<h5>ISO-9001</h5><h5>ISO-14001</h5><h5>OHSAS-18001</h5><h5>ISO-22000</h5><h5>FSSC-22000</h5>",
+                "images": [
+                    "assets/img/compaine-detail/trademark1.jpg",
+                    "assets/img/compaine-detail/trademark2.jpg",
+                    "assets/img/compaine-detail/trademark3.jpg"
+                ]
+            }
+        ],
+        "ms": [{
+                "id": 1,
+                "title": "MEDIA DEVASA",
+                "htmlText": "<h5>Desain Grafis</h5><h5>Web Bentuk</h5><h5>Perangkat</h5><h5>Pengeluaran</h5><h5>Mesin Cetak</h5><h5>Promosi</h5>Untuk Butiran <a href='https://devasamedia.com'>Devasa Media</a>",
+                "images": [
+                    "assets/img/compaine-detail/media1.jpg",
+                    "assets/img/compaine-detail/media2.jpg",
+                    "assets/img/compaine-detail/media3.jpg"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "DEVASA CONSULTANCY",
+                "htmlText": "<h5>Pelaburan Insentif</h5><h5>Pertubuhan Modal Asing Syarikat</h5><h5>Aktiviti Data Kunci Peraturan</h5><h5>Import dan Eksport</h5<h5>Import Permit</h5><h5>Eksport Insentif</h5><h5>Permit Kerja</h5><h5>Keselamatan Data Kunci</h5><h5>Produk Domestik Sijil</h5><h5>Industri Surat Pendaftaran</h5><h5>Kapasiti Laporan</h5><h5>Tahunan Perniagaan Jadual</h5>",
+                "images": [
+                    "assets/img/compaine-detail/consultancy1.jpg",
+                    "assets/img/compaine-detail/consultancy2.jpg",
+                    "assets/img/compaine-detail/consultancy3.jpg"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "ORGANISASI DEVASA",
+                "htmlText": "<h5>Korporat Organisasi</h5><h5>Pemilihan Calon Persembahan</h5><h5>Pembukaan & Menggemparkan Upacara</h5><h5>Melancarkan</h5><h5>Ramadan Aktiviti</h5><h5>Cadangan Perkahwinan</h5><h5>Bunyi & Cahaya Sistem</h5><h5>Proyeksi Sistem</h5><h5>Adil Organisasi</h5><h5>Konsert Organisasi</h5><h5>Seminar - Kongres - Mesyuarat</h5><h5>Perkahwinan Organisasi</h5>",
+                "images": [
+                    "assets/img/compaine-detail/organization1.jpg",
+                    "assets/img/compaine-detail/organization2.jpg",
+                    "assets/img/compaine-detail/organization3.jpg"
+                ]
+            },
+            {
+                "id": 4,
+                "title": "PEMBINAAN DEVASA",
+                "htmlText": "<h5>Reka Bentuk Seni Bina</h5><h5>Reka Bentuk Kolam</h5><h5>Aqua Park Bentuk</h5><h5>Landskap Bentuk</h5><h5>Bentuk Khas Projek</h5><h5>Menara Pembinaan</h5><h5>Pembinaan Bangunan</h5><h5>Villa Pembinaan</h5><h5>Buesiness Pusat Pembinaan</h5><h5>Pedalaman Dekorasyon</h5><h5>Luar Dekorasyon</h5><h5>Kolam Pembinaan</h5><h5>Mekanikal Operasi</h5>",
+                "images": [
+                    "assets/img/compaine-detail/construction1.jpg",
+                    "assets/img/compaine-detail/construction2.jpg",
+                    "assets/img/compaine-detail/construction3.jpg"
+                ]
+            },
+            {
+                "id": 5,
+                "title": "DEVASA TEKSTIL",
+                "htmlText": "<h5>Lelaki Kedalam Kain Mimpi</h5><h5>Wanita Di Kain Mimpi</h5><h5>Uniseks Kain Mimpi</h5><h5>Panas Tekstil</h5><h5>Rumah Tekstil</h5>",
+                "images": [
+                    "assets/img/compaine-detail/textile1.jpg",
+                    "assets/img/compaine-detail/textile2.jpg",
+                    "assets/img/compaine-detail/textile3.jpg"
+                ]
+            },
+            {
+                "id": 6,
+                "title": "DEVASA FURNITURE",
+                "htmlText": "<h5>Moden Perabot</h5><h5>Klasik Perabot</h5><h5>Avangarde Perabot</h5><h5>Negara Perabot</h5><h5>Chester Perabot</h5><h5>Retro Perabot</h5><h5>Bilik Bayi</h5><h5>Muda Bilik</h5><h5>Bilik kanak-Kanak</h5><h5>Perabot Rumah</h5><h5>Perabot Pejabat</h5><h5>Avangarde Perabot</h5><h5>Mandi Perabot</h5><h5>Pintu Perabot</h5><h5>Kandil</h5>",
+                "images": [
+                    "assets/img/compaine-detail/furniture1.jpg",
+                    "assets/img/compaine-detail/furniture2.jpg",
+                    "assets/img/compaine-detail/furniture3.jpg"
+                ]
+            },
+            {
+                "id": 7,
+                "title": "PATEN PENDAFTARAN PERDAGANGAN DEVASA",
+                "htmlText": "<h5>ISO-9001</h5><h5>ISO-14001</h5><h5>OHSAS-18001</h5><h5>ISO-22000</h5><h5>FSSC-22000</h5>",
+                "images": [
+                    "assets/img/compaine-detail/trademark1.jpg",
+                    "assets/img/compaine-detail/trademark2.jpg",
+                    "assets/img/compaine-detail/trademark3.jpg"
+                ]
+            }
+        ]
+    },
+    "contactTitle": {
+        "tr": "İletişime Geç",
+        "en": "Contact Us",
+        "ar": "اتصل بنا",
+        "ms": "Hubungi Kami"
+    },
+    "contactMapTitle": {
+        "tr": "Neredeyiz ?",
+        "en": "Where Are We ?",
+        "ar": "اين نحن ؟",
+        "ms": "Di mana kita ?"
+    },
+    "phone": {
+        "tr": "Telefon",
+        "en": "Phone",
+        "ar": "هاتف",
+        "ms": "Telefon"
+    },
+    "fax": {
+        "tr": "Faks",
+        "en": "Fax",
+        "ar": "الفاكس",
+        "ms": "Faks"
+    },
+    "email": {
+        "tr": "E-posta",
+        "en": "Email",
+        "ar": "البريد الإلكتروني",
+        "ms": "E-mel"
+    },
+    "address": {
+        "tr": "Adres",
+        "en": "Address",
+        "ar": "عنوان",
+        "ms": "Alamat"
+    },
+    "addressInfo": {
+        "tr": "Yenicag Mahallesi Taşkın Sokak 3/2 Yenimahalle / Ankara / TÜRKİYE",
+        "en": "Yenicag Neighborhood Taskin St. 3/2 Yenimahalle / Ankara / TURKEY",
+        "ar": "Yenicag Neighborhood Taskin St. 3/2 Yenimahalle / Ankara / TURKEY",
+        "ms": "Yenicag Kejiranan Taskın Jalan 3/2 Yenimahalle / Ankara / TÜRKİYE"
+    },
+    "formName": {
+        "tr": "Ad",
+        "en": "Name",
+        "ar": "اسم",
+        "ms": "Nama"
+    },
+    "formEmail": {
+        "tr": "E-posta",
+        "en": "Email",
+        "ar": "البريد الإلكتروني",
+        "ms": "E-mel"
+    },
+    "formSubject": {
+        "tr": "Konu",
+        "en": "Subject",
+        "ar": "موضوع",
+        "ms": "Subjek"
+    },
+    "formMessage": {
+        "tr": "Mesaj",
+        "en": "Message",
+        "ar": "رسالة",
+        "ms": "Mesej"
+    },
+    "formButton": {
+        "tr": "Gönder",
+        "en": "Send",
+        "ar": "إرسال",
+        "ms": "Hantar"
+    },
+    "eCatalogName": {
+        "tr": "E-KATALOG",
+        "en": "E-CATALOG",
+        "ar": "كتالوج الكتروني",
+        "ms": "E-KATALOG"
+    },
+    "footer-Corporate": {
+        "tr": "KURUMSAL",
+        "en": "CORPORATE",
+        "ar": "المؤسسية",
+        "ms": "KORPORAT"
+    },
+    "footer-FastLinks": {
+        "tr": "HIZLI ERİŞİM",
+        "en": "FAST LİNKS",
+        "ar": "وصول سريع",
+        "ms": "AKSES CEPAT"
+    },
+    "footer-TurkeyOfficeAddress": {
+        "tr": "TÜRKİYE OFİSİ",
+        "en": "TURKEY OFFICE",
+        "ar": "مكتب تركيا",
+        "ms": "PEJABAT TURKEY"
+
+    },
+    "footer-MalesiaOfficeAddress": {
+        "tr": "MALEZYA OFİSİ",
+        "en": "MALAYSIA OFFICE",
+        "ar": "مكتب ماليزيا",
+        "ms": "PEJABAT MALAYSIA"
+    },
+    "footer-Corporate-Text": {
+        "tr": "Global dünyada; profesyonel ekibimiz ile hazırlayacağımız tüm hizmetlerimizde, dijital teknolojinin görsel dünyaya kazandırdığı olanakları kullanarak, Türkiye’de ve dünya’da fark edilebilecek hale getirmek.",
+        "en": "In the global world; to make it noticeable both in Turkey and in the world by using the opportunities gained by digital technology to the Visual world in all the services we will prepare with our professional team.",
+        "ar": "في العالم العالمي ؛ مع فريقنا المحترف في جميع خدماتنا ، سوف نستعد الرقمية التكنولوجيا جلبت إلى العالم المرئيباستخدام الاحتمالات في تركيا والعالملا يمكن أن تتحقق القرارات.",
+        "ms": "Di dunia global; Dengan pasukan profesional kami Dalam semua perkhidmatan kami, kami akan menyediakan digital teknologi yang dibawa ke dunia visual menggunakan kemungkinan di Turki dan di dunia boleh dilihat"
+    },
+    "footer-FastLinks-Links": {
+        "tr": [{
+                "name": "MEDYA",
+                "rootLink": "Sirket-Detay/1"
+            },
+            {
+                "name": "DANIŞMANLIK",
+                "rootLink": "Sirket-Detay/2"
+            },
+            {
+                "name": "ORGANİZASYON",
+                "rootLink": "Sirket-Detay/3"
+            },
+            {
+                "name": "İNŞAAT",
+                "rootLink": "Sirket-Detay/4"
+            },
+            {
+                "name": "TEKSTİL",
+                "rootLink": "Sirket-Detay/5"
+            },
+            {
+                "name": "MOBİLYA",
+                "rootLink": "Sirket-Detay/6"
+            },
+            {
+                "name": "MARKA TESCIL&PATENT",
+                "rootLink": "Sirket-Detay/7"
+            }
+        ],
+        "en": [{
+                "name": "MEDIA",
+                "rootLink": "en/Compaine-Detail/1"
+            },
+            {
+                "name": "CONSULTANCY",
+                "rootLink": "en/Compaine-Detail/2"
+            },
+            {
+                "name": "ORGANIZATION",
+                "rootLink": "en/Compaine-Detail/3"
+            },
+            {
+                "name": "CONSTRUCTION",
+                "rootLink": "en/Compaine-Detail/4"
+            },
+            {
+                "name": "TEXTILE",
+                "rootLink": "en/Compaine-Detail/5"
+            },
+            {
+                "name": "FURNITURE",
+                "rootLink": "en/Compaine-Detail/6"
+            },
+            {
+                "name": "TRADEMARK REGISTRATION&PATENT",
+                "rootLink": "en/Compaine-Detail/7"
+            }
+        ],
+        "ar": [{
+                "name": "وسائل الإعلام",
+                "rootLink": "ar/Sirket-Detay/1"
+            },
+            {
+                "name": "الاستشارات",
+                "rootLink": "ar/Sirket-Detay/2"
+            },
+            {
+                "name": "منظمة",
+                "rootLink": "ar/Sirket-Detay/3"
+            },
+            {
+                "name": "اعمال بناء",
+                "rootLink": "ar/Sirket-Detay/4"
+            },
+            {
+                "name": "الغزل والنسيج",
+                "rootLink": "ar/Sirket-Detay/5"
+            },
+            {
+                "name": "أثاث المنزل",
+                "rootLink": "ar/Sirket-Detay/6"
+            },
+            {
+                "name": "تسجيل العلامات التجارية وبراءات الاختراع",
+                "rootLink": "ar/Sirket-Detay/7"
+            }
+        ],
+        "ms": [{
+                "name": "MEDIA",
+                "rootLink": "ms/Butiran-Syarikat/1"
+            },
+            {
+                "name": "CONSULTANCY",
+                "rootLink": "ms/Butiran-Syarikat/2"
+            },
+            {
+                "name": "ORGANISASI",
+                "rootLink": "ms/Butiran-Syarikat/3"
+            },
+            {
+                "name": "PEMBINAAN",
+                "rootLink": "ms/Butiran-Syarikat/4"
+            },
+            {
+                "name": "TEKSTIL",
+                "rootLink": "ms/Butiran-Syarikat/5"
+            },
+            {
+                "name": "FURNITURE",
+                "rootLink": "ms/Butiran-Syarikat/6"
+            },
+            {
+                "name": "PATEN PENDAFTARAN PERDAGANGAN ",
+                "rootLink": "ms/Butiran-Syarikat/7"
+            }
+        ]
+    },
+    "footer-OfficeAddress": {
+        "tr": "Adres",
+        "en": "Address",
+        "ar": "عنوان",
+        "ms": "Alamat"
+    },
+    "footer-OfficePhone&Fax": {
+        "tr": "Tel & Faks",
+        "en": "Pho & Fax",
+        "ar": "الهاتف والفاكس",
+        "ms": "Tel & Faks"
+    },
+    "footer-OfficeGsm": {
+        "tr": "Gsm",
+        "en": "Gsm",
+        "ar": "جي إس إم",
+        "ms": "Gsm"
+    },
+    "footer-OfficeEmail": {
+        "tr": "Email",
+        "en": "Email",
+        "ar": "البريد الالكتروني",
+        "ms": "E-mel"
+    },
+    "footer-CopyrightText": {
+        "tr": "COPYRIGHT © 2019. TÜM HAKLARI SAKLIDIR",
+        "en": "COPYRIGHT © 2019. ALL RIGHTS RESERVED",
+        "ar": "حقوق النشر © 2019. جميع الحقوق محفوظة",
+        "ms": "COPYRIGHT © 2019. SEMUA HAK YANG DIPERLUKAN"
+    },
+    "catalogRouteUrl": {
+        "tr": "Katalog",
+        "en": "en/Catalog",
+        "ar": "ar/فهرس",
+        "ms": "ms/Katalog"
+    },
+    "catalog-compaine":{
+        "tr":[
+            {
+                "compaineName":"Devasa Grup",
+                "imgUrl":"assets/img/groupcompaine-0.jpg",
+                "catalogs":[
+                    {
+                        "text":"E-Katalog",
+                        "link":"https://fliphtml5.com/dtrip/musy"
+                    }
+                ]
+            },
+            {
+                "compaineName":"Devasa Medya",
+                "imgUrl":"assets/img/groupcompaine-1.jpg",
+                "catalogs":[
+                    {
+                        "text":"E-Katalog",
+                        "link":"http://online.fliphtml5.com/dtrip/xqvh/"
+                    }
+                ]
+            },
+            {
+                "compaineName":"Devasa Danışmanlık",
+                "imgUrl":"assets/img/groupcompaine-2.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"Devasa Organizasyon",
+                "imgUrl":"assets/img/groupcompaine-3.jpg",
+                "catalogs":[
+                    {
+                        "text":"E-Katalog",
+                        "link":"http://online.fliphtml5.com/dtrip/kiwm/"
+                    }
+                ]
+            },
+            {
+                "compaineName":"Devasa İnşaat",
+                "imgUrl":"assets/img/groupcompaine-4.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"Devasa Tekstil",
+                "imgUrl":"assets/img/groupcompaine-5.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"Devasa Mobilya",
+                "imgUrl":"assets/img/groupcompaine-6.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"Devasa Marka Tescil&Patent",
+                "imgUrl":"assets/img/groupcompaine-7.jpg",
+                "catalogs":[]
+            }
+
+            
+        ],
+        "en":[
+            {
+                "compaineName":"Devasa Group",
+                "imgUrl":"assets/img/groupcompaine-0.jpg",
+                "catalogs":[
+                    {
+                        "text":"E-Catalog",
+                        "link":"https://fliphtml5.com/dtrip/musy"
+                    }
+                ]
+            },
+            {
+                "compaineName":"Devasa Media",
+                "imgUrl":"assets/img/groupcompaine-1.jpg",
+                "catalogs":[
+                    {
+                        "text":"E-Catalog",
+                        "link":"http://online.fliphtml5.com/dtrip/xqvh/"
+                    }
+                ]
+            },
+            {
+                "compaineName":"Devasa Consultancy",
+                "imgUrl":"assets/img/groupcompaine-2.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"Devasa Organization",
+                "imgUrl":"assets/img/groupcompaine-3.jpg",
+                "catalogs":[
+                    {
+                        "text":"E-Catalog",
+                        "link":"http://online.fliphtml5.com/dtrip/kiwm/"
+                    }
+                ]
+            },
+            {
+                "compaineName":"Devasa Construction",
+                "imgUrl":"assets/img/groupcompaine-4.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"Devasa Textile",
+                "imgUrl":"assets/img/groupcompaine-5.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"Devasa Furniture",
+                "imgUrl":"assets/img/groupcompaine-6.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"Devasa Trademark Registration&Patent",
+                "imgUrl":"assets/img/groupcompaine-7.jpg",
+                "catalogs":[]
+            }
+
+            
+        ],
+        "ar":[
+            {
+                "compaineName":"مجموعة ضخمة",
+                "imgUrl":"assets/img/groupcompaine-0.jpg",
+                "catalogs":[
+                    {
+                        "text":"كتالوج الكتروني",
+                        "link":"https://fliphtml5.com/dtrip/musy"
+                    }
+                ]
+            },
+            {
+                "compaineName":"وسائل الإعلام",
+                "imgUrl":"assets/img/groupcompaine-1.jpg",
+                "catalogs":[
+                    {
+                        "text":"كتالوج الكتروني",
+                        "link":"http://online.fliphtml5.com/dtrip/xqvh/"
+                    }
+                ]
+            },
+            {
+                "compaineName":"ديفاسا للاستشارات",
+                "imgUrl":"assets/img/groupcompaine-2.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"منظمة ضخمة",
+                "imgUrl":"assets/img/groupcompaine-3.jpg",
+                "catalogs":[
+                    {
+                        "text":"كتالوج الكتروني",
+                        "link":"http://online.fliphtml5.com/dtrip/kiwm/"
+                    }
+                ]
+            },
+            {
+                "compaineName":"البناء الضخم",
+                "imgUrl":"assets/img/groupcompaine-4.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"نسيج ضخم",
+                "imgUrl":"assets/img/groupcompaine-5.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"أثاث المنزل",
+                "imgUrl":"assets/img/groupcompaine-6.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"براءة اختراع تسجيل العلامات التجارية",
+                "imgUrl":"assets/img/groupcompaine-7.jpg",
+                "catalogs":[]
+            }
+
+            
+        ],
+        "ms":[
+            {
+                "compaineName":"Devasa Group",
+                "imgUrl":"assets/img/groupcompaine-0.jpg",
+                "catalogs":[
+                    {
+                        "text":"E-Katalog",
+                        "link":"https://fliphtml5.com/dtrip/musy"
+                    }
+                ]
+            },
+            {
+                "compaineName":"Devasa Media",
+                "imgUrl":"assets/img/groupcompaine-1.jpg",
+                "catalogs":[
+                    {
+                        "text":"E-Katalog",
+                        "link":"http://online.fliphtml5.com/dtrip/xqvh/"
+                    }
+                ]
+            },
+            {
+                "compaineName":"Devasa Perundingan",
+                "imgUrl":"assets/img/groupcompaine-2.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"Devasa Pertubuhan",
+                "imgUrl":"assets/img/groupcompaine-3.jpg",
+                "catalogs":[
+                    {
+                        "text":"E-Katalog",
+                        "link":"http://online.fliphtml5.com/dtrip/kiwm/"
+                    }
+                ]
+            },
+            {
+                "compaineName":"Devasa Pembinaan",
+                "imgUrl":"assets/img/groupcompaine-4.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"Devasa Tekstil",
+                "imgUrl":"assets/img/groupcompaine-5.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"Devasa Perabot",
+                "imgUrl":"assets/img/groupcompaine-6.jpg",
+                "catalogs":[]
+            },
+            {
+                "compaineName":"Devasa Pendaftaran Tanda & Paten",
+                "imgUrl":"assets/img/groupcompaine-7.jpg",
+                "catalogs":[]
+            }
+
+            
+        ]
+    },
+    "to-Be-Added": {
+        "tr": "Eklenecek",
+        "en": "To be added",
+        "ar": "لتضاف",
+        "ms": "Yang Akan Ditambah"
+    }
+
+}
