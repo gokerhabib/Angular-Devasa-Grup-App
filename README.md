@@ -1,4 +1,5 @@
 # App
+[Online App Link](https://gokerhabib.github.io/Angular-Devasa-Grup-App/)
 
 The project was made for Devasa Group, a corporate company. A multi language application using i18n with Angular
 
