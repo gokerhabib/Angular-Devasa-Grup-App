@@ -1,7 +1,12 @@
-# App Info
+# App
 
-The project was made for a corporate company. 
-A multi language application using i18n with Angular project website Link (https://www.devasagrup.com)
+The project was made for Devasa Group, a corporate compan.A multi language application using i18n with Angular
+
+Copyright All Rights Reserved | [Devasa Grup](https://devasagrup.com)
+
+# App Start
+
+After cloning the project, npm i command will be entered from the terminal screen, then you can run the project with the npm start command.
 
 # Website
 
