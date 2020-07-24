@@ -34,7 +34,13 @@
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26",
     "npm-registry-fetch": ">=4.0.5",
-    "websocket-extensions": ">=0.1.4"
+    "websocket-extensions": ">=0.1.4",
+    "lodash": ">=4.17.19",
+    "set-value": ">=2.0.1",
+    "serialize-javascript": ">=2.1.1",
+    "handlebars": ">=4.3.0",
+    "kind-of": ">=6.0.3",
+    "minimist": ">=1.2.3"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.13.0",
