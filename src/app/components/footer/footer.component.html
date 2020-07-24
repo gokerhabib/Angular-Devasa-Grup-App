@@ -1,0 +1,83 @@
+<!-- Footer -->
+<footer id="footer" class="sm-padding bg-dark">
+
+    <!-- Container -->
+    <div class="container">
+
+        <!-- Row -->
+        <div class="row mb-20">
+            <div class="col-md-3">
+                <div class="widget">
+                    <h4 class="title">{{'footer-Corporate'|translate}}</h4>
+                    <div class="footer-text-image mb-10">
+                        <a routerlink=""><img src="./assets/img/logo-footer.png" alt="logo"></a>
+                    </div>
+                    <div class="footer-text">
+                        <p>
+                            {{'footer-Corporate-Text'|translate}}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="widget">
+                    <h4 class="title">{{'footer-FastLinks'|translate}}</h4>
+                    <div class="footer-menu">
+                        <ul class="fast-links">
+                            <li *ngFor="let link of 'footer-FastLinks-Links' | translate"><a routerLink="{{link.rootLink}}">{{link.name}}</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="widget">
+                    <h4 class="title">{{'footer-TurkeyOfficeAddress'|translate}}</h4>
+                    <div class="footer-address">
+                        <address>
+                                <strong>{{'footer-OfficeAddress'|translate}} :</strong>&nbsp;{{'addressInfo'|translate}}<br />
+                                <strong>{{'footer-OfficePhone&Fax'|translate}} :</strong>&nbsp;0 (312) 425 82 80<br />
+                                <strong>{{'footer-OfficeGsm'|translate}} :</strong>&nbsp;0 542 425 82 80<br />
+                                <strong>{{'footer-OfficeEmail'|translate}} :</strong>&nbsp;info@devasagrup.com<br />
+                        </address>
+                    </div>
+                    <ul class="footer-follow mt-20">
+                        <li><a href="{{globals.socialLinks['fb']}}"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="{{globals.socialLinks['tw']}}"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="{{globals.socialLinks['in']}}"><i class="fa fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="widget">
+                    <h4 class="title">{{'footer-MalesiaOfficeAddress'|translate}}</h4>
+                    <div class="footer-address">
+                        <address>
+                                <strong>{{'footer-OfficeAddress'|translate}} :</strong>&nbsp;23, Jalan 15/48a, Sentul Raya Boulevard, 51000 Wilayah Persekutuan
+                                Kuala Lumpur, Malezya<br />
+                                <strong>{{'footer-OfficePhone&Fax'|translate}} :</strong>&nbsp;+6 03 4043 2925<br />
+                                <strong>{{'footer-OfficeGsm'|translate}} :</strong>&nbsp;+6 012 211 9812<br />
+                        </address>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        <!-- /Row -->
+        <div class="row">
+            <div class="col-md-12">
+                <!-- footer copyright -->
+                <div class="footer-copyright">
+                    <p>{{'footer-CopyrightText'| translate}} | <a href="https://devasamedia.com" target="_blank">Devasa MEdia</a>
+                    </p>
+                </div>
+                <!-- /footer copyright -->
+            </div>
+        </div>
+
+    </div>
+    <!-- /Container -->
+
+</footer>
+<!-- /Footer -->

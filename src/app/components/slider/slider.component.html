@@ -1,0 +1,23 @@
+<!-- You can use owl-carousel selector to include its component -->
+<owl-carousel-o id="owl-slider" [options]="carouselOptions" (changed)="getData($event)">
+    <ng-container *ngFor="let slide of 'slider' | translate">
+        <ng-template [ngClass]="item" carouselSlide [id]="slide.id">
+            <img id="slide-image" class="slide-image" [src]="slide.src" [alt]="slide.alt" [title]="slide.title">
+            <div class="item-body" [ngStyle]="setMyStyles(slide.bodyStyle)" id="slide-{{slide.id}}">
+                <h4 class="item-title animated {{slide.titleAnimate}}" [ngStyle]="setMyStyles(slide.titleStyle)">{{slide.title}}</h4>
+                <p class="item-text animated {{slide.textAnimate}}" [ngStyle]="setMyStyles(slide.textStyle)">{{slide.text}}</p>
+            </div>
+        </ng-template>
+    </ng-container>
+</owl-carousel-o>
+
+<!-- old -version -->
+<!-- <owl-carousel id="owl-slider" [options]="carouselOptions" [items]="images" [carouselClasses]="['owl-theme', 'sliding']">
+    <div class="item" *ngFor="let image of images;let i = index">
+        <img id="slide-image" class="slide-image" src="{{image.image}}">
+        <div class="item-body">
+            <h4 class="item-title animated {{image.titleAnimate}}" [ngStyle]="setMyStyles(image.titleStyle)">{{image.title}}</h4>
+            <p class="item-text animated {{image.textAnimate}}">{{image.text}}</p>
+        </div>
+    </div>
+</owl-carousel> -->

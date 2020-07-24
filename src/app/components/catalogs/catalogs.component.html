@@ -1,0 +1,29 @@
+<div class="section padding md-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-header text-center">
+                    <h2 class="title">{{'eCatalogName'|translate}}</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+                <div class="col-md-12">
+                    <div class="catalogs">
+                        <div class="col-sm-3 mb-10" *ngFor="let catalogInfo of 'catalog-compaine' | translate">
+                            <div class="catalog-compaine">
+                                <img src="{{catalogInfo.imgUrl}}" />
+                                <div class="catalog-content">
+                                    <h4>{{catalogInfo.compaineName}}</h4>
+                                    <div class="catalog-links">
+                                        <span *ngIf="catalogInfo.catalogs.length == 0">{{'to-Be-Added'|translate}}&nbsp;</span>
+                                        <a href="{{catalog.link}}" target="_blank" *ngFor="let catalog of catalogInfo.catalogs "><i class="fa fa-bookmark"></i> {{catalog.text}}</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>

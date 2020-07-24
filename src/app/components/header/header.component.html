@@ -1,0 +1,38 @@
+<app-topheader></app-topheader>
+<!-- Header -->
+<header>
+    <!-- Nav -->
+    <nav id="nav" class="navbar nav-transparent" [class.header-home]="global.showInHome$ | async">
+        <div class="container">
+
+            <div class="navbar-header">
+                <!-- Logo -->
+                <div class="navbar-brand">
+                    <a routerLink="/">
+                        <img class="logo-alt" src="./assets/img/logo-alt.png" alt="logo">
+                        <img class="logo" src="./assets/img/logo.png">
+                    </a>
+                </div>
+                <!-- /Logo -->
+
+                <!-- Collapse nav button -->
+                <div class="nav-collapse">
+                    <span></span>
+                </div>
+                <!-- /Collapse nav button -->
+            </div>
+
+            <!--  Main navigation  -->
+            <ul class="main-nav nav navbar-nav navbar-right ">
+                <li *ngFor="let menu of 'header' | translate"><a [routerLinkActive]="'active'" [routerLinkActiveOptions]="{exact: true}" (click)="setTitle(menu.pageTitle)" routerLink="{{menu.rootName}}">{{menu.name}}</a></li>
+                <li><a [routerLinkActive]="'active'" routerLink="{{'catalogRouteUrl'| translate}}"><i class="fa fa-share-square"></i> {{'eCatalogName'| translate}}</a></li>
+            </ul>
+            <!-- /Main navigation -->
+
+        </div>
+    </nav>
+    <!-- /Nav -->
+
+</header>
+
+<!-- /Header -->

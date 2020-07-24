@@ -1,0 +1,72 @@
+<!-- Numbers -->
+<div id="numbers" class="section sm-padding">
+
+    <!-- Background Image -->
+    <div class="bg-img" style="background-image: url('./assets/img/background2.jpg');">
+        <div class="overlay"></div>
+    </div>
+    <!-- /Background Image -->
+
+    <!-- Container -->
+    <div class="container">
+
+        <!-- Row -->
+        <div class="row">
+
+            <!-- number -->
+            <div class="col-sm-12">
+                <div class="number">
+                    <h3 class="white-text"><span class="counter">{{compaineInfo.name}}</span></h3>
+                    <span class="white-text">{{compaineInfo.shortText}}</span>
+                </div>
+            </div>
+            <!-- /number -->
+
+        </div>
+        <!-- /Row -->
+
+    </div>
+    <!-- /Container -->
+
+</div>
+<!-- /Numbers -->
+<!-- Why Choose Us -->
+<div id="features" class="section md-padding bg-grey">
+
+    <!-- Container -->
+    <div class="container">
+
+        <!-- Row -->
+        <div class="row">
+
+            <!-- why choose us content -->
+            <div class="col-md-6 mb-20">
+                <div class="section-header">
+                    <h2 class="title">{{compaineInfo.shortText}}</h2>
+                </div>
+                <div innerHtml="{{compaineDetail.htmlText}}">
+                </div>
+            </div>
+            <!-- /why choose us content -->
+
+            <!-- Compaine Detail slider -->
+            <div class="col-md-6">
+                <owl-carousel-o [options]="carouselOptions">
+                    <ng-container *ngFor="let image of compaineDetail.images" id="about-slider">
+                        <ng-template [ngClass]="item" carouselSlide>
+                            <img [src]="image" [alt]="compaineInfo.name" [title]="compaineInfo.shortText">
+                        </ng-template>
+                    </ng-container>
+                </owl-carousel-o>
+            </div>
+
+            <!-- /Compaine Detail slider -->
+
+        </div>
+        <!-- /Row -->
+
+    </div>
+    <!-- /Container -->
+
+</div>
+<!-- /Why Choose Us -->

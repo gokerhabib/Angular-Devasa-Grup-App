@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'sverige_script_header';
+    src: url('../../../assets/fonts/sverigescriptheader.eot');
+    src: local('SverigeScript'), local('SverigeScriptDecorated_Demo'), local('SverigeScriptDecorated Demo'), local('Sverige Script Decorated Demo'), url('../../../assets/fonts/sverigescriptheader.eot?#iefix') format('embedded-opentype'), url('../../../assets/fonts/sverigescriptheader.woff') format('woff'), url('../../../assets/fonts/sverigescriptheader.woff2') format('woff2'), url('../../../assets/fonts/sverigescriptheader.ttf') format('truetype'), url('../../../assets/fonts/sverigescriptheader.svg#sverige_script_header') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'sverige_script_text';
+    src: url('../../../assets/fonts/sverigescripttext.eot');
+    src: local('SverigeScript'), local('SverigeScriptClean_Demo'), local('SverigeScriptClean Demo'), local('Sverige Script Clean Demo'), url('../../../assets/fonts/sverigescripttext.eot?#iefix') format('embedded-opentype'), url('../../../assets/fonts/sverigescripttext.woff') format('woff'), url('../../../assets/fonts/sverigescripttext.woff2') format('woff2'), url('../../../assets/fonts/sverigescripttext.ttf') format('truetype'), url('../../../assets/fonts/sverigescripttext.svg#sverige_script_text') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.owl-carousel-o {
+    width: 90% !important;
+    margin: 10% auto;
+    overflow: hidden;
+}
+
+#slide-image {
+    height: 100vh;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    object-fit: cover;
+}
+
+owl-carousel-o .item-body {
+    position: absolute;
+    left: 15%;
+    top: 40%;
+}
+
+.item-body h4 {
+    font-family: 'Galada', 'Poppins', sans-serif;
+    padding: 5px 0 5px 10px;
+    color: white;
+    font-size: 32px;
+    max-width: 320px;
+}
+
+.item-body p {
+    font-family: 'Galada', 'Poppins', sans-serif;
+    padding: 5px 5px 5px 10px;
+    color: white;
+    font-size: 25px;
+    max-width: 600px;
+}

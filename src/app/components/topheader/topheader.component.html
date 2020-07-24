@@ -1,0 +1,32 @@
+<div class="top-header" [class.inhome]="global.showInHome$ | async">
+    <div class="container">
+        <div class="top-main">
+            <div class="row">
+                <div class="col-sm-6 mobile-center">
+                    <ul class="top-left-language">
+                        <li>
+                            <a (click)="translate('tr')" routerLink="/"><img src="./assets/img/tr-flag.png" /></a>
+                        </li>
+                        <li>
+                            <a (click)="translate('ar')" routerLink="/"><img src="./assets/img/ar-flag.png" /></a>
+                        </li>
+                        <li>
+                            <a (click)="translate('en')" routerLink="/"><img src="./assets/img/en-flag.png" /></a>
+                        </li>
+                        <li>
+                            <a (click)="translate('ms')" routerLink="/"><img src="./assets/img/ms-flag.png" /></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 hidden-xs">
+                    <ul class="top-social">
+                        <li><a href="{{global.socialLinks['fb']}}"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="{{global.socialLinks['tw']}}"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="{{global.socialLinks['in']}}"><i class="fa fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

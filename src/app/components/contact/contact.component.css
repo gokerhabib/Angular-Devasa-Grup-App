@@ -1,0 +1,12 @@
+.contact {
+    text-align: left;
+    margin: 0;
+}
+
+.contact h5 {
+    margin-bottom: 0px;
+}
+
+.contact p {
+    max-width: 332px;
+}
