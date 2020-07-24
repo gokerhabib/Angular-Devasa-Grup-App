@@ -32,7 +32,9 @@
     "rxjs": "^6.3.3",
     "script-loader": "^0.7.2",
     "tslib": "^1.9.0",
-    "zone.js": "~0.8.26"
+    "zone.js": "~0.8.26",
+    "npm-registry-fetch": ">=4.0.5",
+    "websocket-extensions": ">=0.1.4"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.13.0",
