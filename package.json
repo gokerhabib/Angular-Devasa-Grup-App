@@ -43,7 +43,7 @@
     "minimist": ">=1.2.3",
     "acorn": ">=6.4.1",
     "https-proxy-agent": ">=2.2.3",
-    "elliptic": ">=6.5.3"
+    "elliptic": ">=6.5.4"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.13.0",
